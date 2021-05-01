@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "johnpapa.vscode-peacock",
+        "ahmadawais.shades-of-purple",
+        "angular.ng-template",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "ecmel.vscode-html-css",
+        "mariusalchimavicius.json-to-ts",
+        "rebornix.project-snippets"
+    ]
+}
